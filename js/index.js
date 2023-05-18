@@ -8,24 +8,6 @@ let message = "let a = 3\nlet b = 5;\nlet c;\n-----------\na + b = " + (a + b) +
 
 alert(message);
 
-/*
-a + b
-a - b
-a * b
-a / b
-a % b
-a += b
-a -= b
-a *= b
-a /= b
-a %= b
-a == b
-a != b
-a > b
-a < b
-!a && !c 
-!a || !c 
-*/
 
 //TASK 2
 
